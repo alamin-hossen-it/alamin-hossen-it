@@ -1,8 +1,8 @@
 ![Alamin Hossen](/images/1.png)
 
-# Hello, I'm Alamin Hossen 
-A  full stack web developer.  
-__Work from home__  
+# 🖐 Hello, I'm Alamin Hossen 
+A full stack web developer.  
+__🏠Work from home__  
 Living in: Riyadh, Saudi Arabia
 
 ### About Me
@@ -19,11 +19,11 @@ I'm a passionate programmer on Full Stack Web Development. I have complited stud
  4. __TailwindCSS__  <img style = border-radius:50px; src="./images/tainwild.png" height= 50 width= 50 title='TailwindCSS' />
  5. __JavaScript__  <img style = border-radius:50px; src="./images/javascript.png" height= 50 width= 50 title='JavaScript' />
  6. __TypeScript__ <img style = border-radius:50px; src="./images/ts.png" height= 50 width= 50 title='TypeScript' />
- 7. __ExpresJS__ <img style = border-radius:50px; src="./images/EXPRESS-JS.png" height= 50 width= 50 title='ExpressJS' />
+ 7. __ExpresJS__ <img style = border-radius:50px; src="./images/express-js.png" height= 50 width= 50 title='ExpressJS' />
  8. __JSON__ <img style = border-radius:50px; src="./images/json.png" height= 50 width= 50 title='Json' />
  9. __ReactJS__ <img style = border-radius:50px; src="./images/react.png" height= 50 width= 50 title='React' />
  10. __NodeJS__   <img style = border-radius:50px; src="./images/nodejs1.png" height= 50 width= 50 title='HTML5' />
- 11. __MongoDB__  <img style = border-radius:50px; src="./images/mongoDB.PNG" height= 50 width= 50 title='mongoDB' />
+ 11. __MongoDB__  <img style = border-radius:50px; src="./images/mongoDB.png" height= 50 width= 50 title='mongoDB' />
  12. __Git & GitHub__  <img style = border-radius:50px; src="./images/github.jpg" height= 50 width= 50 title='GitHub' /><br>
 
  <br>
@@ -51,9 +51,9 @@ I'm a passionate programmer on Full Stack Web Development. I have complited stud
 ### Contact Me:
 [Facebook]:[https://www.facebook.com/nayemahammed.nayemahammed.7?mibextid=ZbWKwL] 
 
-Email: alamin.it4to7@gmail.com  
-Email: ariyankhan1657@gmail.com  
-Email: ariyankhan16587@gmail.com
+G-mail: alamin.it4to7@gmail.com  
+G-mail: ariyankhan1657@gmail.com  
+G-mail: ariyankhan16587@gmail.com
 
 [Facebook][Facebook] 
 
