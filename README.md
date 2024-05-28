@@ -35,7 +35,7 @@ I'm a passionate programmer on Full Stack Web Development. I have complited stud
  - English - Advanced
  - Arabic - Basic
  - Urdu - Intermediate
- - Hindi - Intermedite
+ - Hindi - Intermediate
  
 
  <br>
