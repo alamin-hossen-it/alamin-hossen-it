@@ -55,6 +55,7 @@ G-mail: alamin.it4to7@gmail.com
 G-mail: ariyankhan1657@gmail.com  
 G-mail: ariyankhan16587@gmail.com
 
-[Facebook][Facebook] 
 
-Thanks for going through my Protfolio. All right reserved by Alamin Hossen @2024.
+<br>
+
+__Thanks for going through my Protfolio. All right reserved by Alamin Hossen @2024__
