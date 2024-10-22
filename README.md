@@ -1,8 +1,8 @@
 ![Alamin Hossen](/images/1.png)
 
 # 🖐 Hello, I'm Alamin Hossen 
-A full stack web developer(MERN) 
-__🏠Work from home__  
+A full stack web developer(MERN)  
+ __🏠Work from home__  
 Living in: Riyadh, Saudi Arabia
 
 ### About Me
