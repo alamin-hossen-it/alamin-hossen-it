@@ -19,7 +19,7 @@ I'm a passionate programmer on Full Stack Web Development. I have complited stud
  4. __TailwindCSS__  <img style = border-radius:50px; src="./images/tainwild.png" height= 50 width= 50 title='TailwindCSS' />
  5. __JavaScript__  <img style = border-radius:50px; src="./images/javascript.png" height= 50 width= 50 title='JavaScript' />
  6. __TypeScript__ <img style = border-radius:50px; src="./images/ts.png" height= 50 width= 50 title='TypeScript' />
- 7. __ExpresJS__ <img style = border-radius:50px; src="./images/express-js.png" height= 50 width= 50 title='ExpressJS' />
+ 7. __ExpressJS__ <img style = border-radius:50px; src="./images/express-js.png" height= 50 width= 50 title='ExpressJS' />
  8. __JSON__ <img style = border-radius:50px; src="./images/json.png" height= 50 width= 50 title='Json' />
  9. __ReactJS__ <img style = border-radius:50px; src="./images/react.png" height= 50 width= 50 title='React' />
  10. __NodeJS__   <img style = border-radius:50px; src="./images/nodejs1.png" height= 50 width= 50 title='HTML5' />
