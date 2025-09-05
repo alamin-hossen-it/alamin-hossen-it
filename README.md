@@ -51,7 +51,7 @@ I'm a passionate programmer on Full Stack Web Development. I have complited stud
 ### Contact Me:
 [Facebook]:[https://www.facebook.com/nayemahammed.nayemahammed.7?mibextid=ZbWKwL] 
 
-G-mail: alamin.it4to7@gmail.com  
+G-mail: alamin.it24to7@gmail.com  
 G-mail: ariyankhan1657@gmail.com  
 G-mail: ariyankhan16587@gmail.com
 
