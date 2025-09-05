@@ -53,7 +53,7 @@ I'm a passionate programmer on Full Stack Web Development. I have complited stud
 
 G-mail: alamin.it24to7@gmail.com  
 G-mail: ariyankhan1657@gmail.com  
-G-mail: ariyankhan16587@gmail.com
+G-mail: ariyankhan1658@gmail.com
 
 
 <br>
