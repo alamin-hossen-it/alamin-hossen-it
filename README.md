@@ -1,4 +1,4 @@
-![Alamin Hossen](/images/alamin.png)
+![Alamin Hossen](/images/AlaminProfile.jpg)
 
 # 🖐 Hello, I'm Alamin Hossen 
 A full stack web developer(MERN)  
